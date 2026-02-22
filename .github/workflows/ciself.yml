@@ -1,4 +1,4 @@
-name: Test Project
+name: Test self runner
 
 on:
   pull_request:
